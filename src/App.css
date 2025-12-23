@@ -633,3 +633,83 @@ body::before {
   height: auto;
   border-radius: 8px;
 }
+/* DESKTOP LAYOUT (unchanged) */
+.about-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr; 
+  gap: 2rem;
+  width: 100%;
+  max-width: 1100px;
+  margin: auto;
+  align-items: center;
+}
+
+/* CLEAN IMAGES → no card, no frame */
+.about-img {
+  width: 100%;
+  border-radius: 18px;        /* remove rounded look */
+  box-shadow: none;        /* remove card shadow */
+  padding: 0;              /* ensure no inner spacing */
+  background: none;        /* remove any background */
+}
+
+/* PARAGRAPH CARD (your original color preserved) */
+.about-card {
+  padding: 20px;
+  border-radius: 15px;
+  line-height: 1.6;
+  font-size: 18px;
+  background: inherit; 
+}
+
+/* ------------------------------------------------
+   📱 MOBILE LAYOUT FIX — SAME ORDER AS SCREENSHOT
+   ------------------------------------------------ */
+@media (max-width: 768px) {
+  .about-wrapper {
+    display: flex;
+    flex-direction: column; 
+    gap: 1.5rem;
+  }
+
+  .about-img {
+    width: 90%;
+    border-radius: 18px;      
+    box-shadow: none;
+  }
+
+  .about-card {
+    width: 90%;
+    padding: 18px;
+    font-size: 17px;
+    background: inherit;
+  }
+}
+/* Navbar container */
+nav {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap; /* allow wrapping on small screens */
+  padding: 1rem;
+  background-color: #ffe6f0; /* match your pink theme */
+}
+
+nav a {
+  font-size: 1rem;
+  color: #b6006d; /* match your hot pink */
+  margin: 0.5rem;
+  text-decoration: none;
+}
+
+/* Mobile Navbar */
+@media (max-width: 768px) {
+  nav {
+    flex-direction: column; /* stack menu items */
+    align-items: center;
+  }
+
+  nav a {
+    font-size: 0.95rem;
+    margin: 0.3rem 0;
+  }
+}
