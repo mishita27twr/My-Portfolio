@@ -606,3 +606,30 @@ body::before {
   position: relative;
   bottom: 0;
 }
+/* GitHub Stats Section */
+
+#github-stats .heading {
+  font-size: 2rem;
+  margin-bottom: 40px;
+  font-family: 'Georgia', serif;
+}
+
+.github-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 25px;
+  justify-items: center;
+  align-items: start;
+}
+
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
