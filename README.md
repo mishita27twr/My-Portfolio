@@ -1,7 +1,5 @@
-## 🚀 Live Demo  
-[Click here to view my portfolio](https://my-portfolio-mishita.vercel.app)
-
-=======
+## 🚀 Live Demo
+[![Live Website](https://img.shields.io/badge/Live%20Site-Visit-blue?style=for-the-badge)](https://my-portfolio-mu-liard-65.vercel.app/)
 
 # Getting Started with Create React App
 
