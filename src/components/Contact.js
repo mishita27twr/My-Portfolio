@@ -39,7 +39,7 @@ const Contact = () => {
 
         {/* LinkedIn */}
         <a
-          href="https://www.linkedin.com/in/mishita-tiwari-927ba5234/"
+          href="https://www.linkedin.com/in/mishita-tiwari-24a986338"
           target="_blank"
           rel="noopener noreferrer"
           title="LinkedIn"
