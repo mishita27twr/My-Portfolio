@@ -1,6 +1,5 @@
-## 🚀 Live Demo
-
-[![Live Website](https://img.shields.io/badge/Live%20Site-Visit-blue?style=for-the-badge)](https://my-portfolio-mishita.vercel.app)
+## 🚀 Live Demo  
+[Click here to view my portfolio](https://my-portfolio-mishita.vercel.app)
 
 =======
 
