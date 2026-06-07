@@ -45,10 +45,8 @@ and other sections are also there
 * HTML5
 * CSS3
 
-<<<<<<< HEAD
 ## Getting Started
-=======
-## 🚀 Getting Started
+
 Clone the repository:
 
 ```bash
