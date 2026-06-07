@@ -7,7 +7,7 @@ A modern and responsive personal portfolio website designed to showcase my profe
 
 Built with React and styled with a soft, elegant design, the website serves as a central place to present my work, experience, and interests while reflecting my personality as a developer. The portfolio focuses on clean user experience, smooth navigation, responsive layouts, and interactive elements to create a memorable browsing experience.
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home Page
 
