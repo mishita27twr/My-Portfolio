@@ -1,5 +1,5 @@
 import React from "react";
-import { FaAndroid, FaTshirt, FaPalette, FaGoogle, FaMicrosoft } from "react-icons/fa";
+import { FaAndroid, FaTshirt, FaPalette, FaMicrosoft } from "react-icons/fa";
 
 const College = () => {
   return (
