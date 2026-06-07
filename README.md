@@ -27,7 +27,7 @@ Built with React and styled with a soft, elegant design, the website serves as a
 
 and other sections are also there 
 
-## ✨ Highlights
+## Highlights
 
 * Modern and responsive design
 * Smooth scrolling navigation
@@ -37,14 +37,14 @@ and other sections are also there
 * Professional presentation of personal brand
 * Optimized for performance and accessibility
 
-## 🛠️ Built With
+## Built With
 
 * React.js
 * JavaScript
 * HTML5
 * CSS3
 
-## 🚀 Getting Started
+## Getting Started
 
 Clone the repository:
 
