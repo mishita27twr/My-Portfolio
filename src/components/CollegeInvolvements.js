@@ -1,5 +1,5 @@
 import React from "react";
-import { FaAndroid, FaTshirt, FaPalette, FaGoogle } from "react-icons/fa";
+import { FaAndroid, FaTshirt, FaPalette, FaGoogle, FaMicrosoft } from "react-icons/fa";
 
 const College = () => {
   return (
@@ -23,8 +23,8 @@ const College = () => {
         </div>
 
         <div className="college-item">
-          <FaGoogle className="college-icon google-icon" />
-          <span><strong>GDSC Club:</strong> Web Development Team (Core Member)</span>
+          <FaMicrosoft className="college-icon microsoft-icon" />
+          <span><strong>Microsoft Club:</strong> Technical Team (Core Member)</span>
         </div>
       </div>
     </section>
