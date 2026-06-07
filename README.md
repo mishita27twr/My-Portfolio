@@ -1,24 +1,14 @@
-<<<<<<< HEAD
+# My Portfolio Website
+
 ## Live Demo
 [![Live Website](https://img.shields.io/badge/Live%20Site-Visit-blue?style=for-the-badge)](https://my-portfolio-ruzg.vercel.app/)
 
-# My Portfolio Website
-=======
-## 🚀 Live Demo
-[![Live Website](https://img.shields.io/badge/Live%20Site-Visit-blue?style=for-the-badge)](https://my-portfolio-ruzg.vercel.app/)
-
-# 🌸 My Portfolio Website
->>>>>>> f92092e5a951e2d8bba6806ea57e2c8c28619f42
-
+## Overview
 A modern and responsive personal portfolio website designed to showcase my professional profile, technical skills, projects, and achievements in an engaging and visually appealing way.
 
 Built with React and styled with a soft, elegant design, the website serves as a central place to present my work, experience, and interests while reflecting my personality as a developer. The portfolio focuses on clean user experience, smooth navigation, responsive layouts, and interactive elements to create a memorable browsing experience.
 
-<<<<<<< HEAD
 ## Screenshots
-=======
-## 📸 Screenshots
->>>>>>> f92092e5a951e2d8bba6806ea57e2c8c28619f42
 
 ### Home Page
 
@@ -38,11 +28,7 @@ Built with React and styled with a soft, elegant design, the website serves as a
 
 and other sections are also there 
 
-<<<<<<< HEAD
 ## Highlights
-=======
-## ✨ Highlights
->>>>>>> f92092e5a951e2d8bba6806ea57e2c8c28619f42
 
 * Modern and responsive design
 * Smooth scrolling navigation
@@ -52,11 +38,7 @@ and other sections are also there
 * Professional presentation of personal brand
 * Optimized for performance and accessibility
 
-<<<<<<< HEAD
-## Built With
-=======
 ## 🛠️ Built With
->>>>>>> f92092e5a951e2d8bba6806ea57e2c8c28619f42
 
 * React.js
 * JavaScript
@@ -67,8 +49,6 @@ and other sections are also there
 ## Getting Started
 =======
 ## 🚀 Getting Started
->>>>>>> f92092e5a951e2d8bba6806ea57e2c8c28619f42
-
 Clone the repository:
 
 ```bash
